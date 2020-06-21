@@ -7,7 +7,5 @@ namespace DemoQASite.Pages.SortablePage
 {
     public partial class SortablePagePart: DemoQAPAge
     {   
-
-
     }
 }

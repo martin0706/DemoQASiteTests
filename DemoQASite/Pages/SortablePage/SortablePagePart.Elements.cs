@@ -11,6 +11,7 @@ namespace DemoQASite.Pages.SortablePage
     public partial class SortablePagePart : DemoQAPAge
     {
         public List<IWebElement> ListFromSortableElements => Driver.FindElements(By.XPath("//*[@class='vertical-list-container mt-4']//div")).ToList();
+          
 
 
     }
