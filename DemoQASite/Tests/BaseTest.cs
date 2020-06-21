@@ -11,8 +11,6 @@ using System.Text;
 
 namespace DemoQASite.Tests
 {   
-    
-    
     public class BaseTest
     {
         protected IWebDriver Driver { get; set; }
